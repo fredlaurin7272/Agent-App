@@ -1,1 +1,1 @@
-crewai
+crewai==0.28.8
