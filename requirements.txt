@@ -1,3 +1,4 @@
+# Test Git integration
 streamlit
 crewai
 pysqlite3-binary
